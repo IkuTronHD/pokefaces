@@ -1,0 +1,1 @@
+color:"0xDE22A1",strength:10
